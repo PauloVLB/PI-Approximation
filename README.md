@@ -8,15 +8,20 @@ Projeto de aproximação de pi a partir de probabilidade e geometria usando pyth
   
   * easygui `sudo apt-get install python-easygui`
 
-<br>Exemplo de entrada:</br>
-<img src="imgsRM/in.png">
+<p align="center">
+ <br>Exemplo de entrada:</br>
+ <img src="imgsRM/in.png">
+</p>
 
-<br>Exemplo de círculo:</br>
-<img src="imgsRM/exemploCirculo.png">
+<p align="center">
+ <br>Exemplo de círculo:</br>
+ <img src="imgsRM/exemploCirculo.png">
+</p>
 
-<br>Exemplo de dados de saída:</br>
-<img src="imgsRM/exemploDados.png">
-
+<p align="center">
+ <br>Exemplo de dados de saída:</br>
+ <img src="imgsRM/exemploDados.png">
+</p>
 
 
 
