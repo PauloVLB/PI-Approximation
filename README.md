@@ -1,6 +1,9 @@
 AreaCirculo
 ===========
-Projeto de aproximação de pi a partir de probabilidade e geometria usando python e opencv.
+Projeto de aproximação de pi a partir de probabilidade e geometria.
+Há uma versão em python, utilizando openvc para gerar a interface gráfica e outra em c++ sem a interface.
+
+# Python e Opencv.
 
 ### Pré-requisitos (Linux)
   * Python 2.7 `sudo apt-get install python`
