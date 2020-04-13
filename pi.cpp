@@ -29,7 +29,6 @@ int main()
         
         if(d < 1) inPoints++;
     }
-        
     double pi = 4 * (inPoints/nPoints);
     cout << fixed << setprecision(power) << pi << endl;
 
