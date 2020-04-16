@@ -9,8 +9,7 @@ double randNum(double min, double max){
     return min + r * (max-min);
 }
 
-int main()
-{
+int main() {
     
     srand(time(NULL));
     double power;
