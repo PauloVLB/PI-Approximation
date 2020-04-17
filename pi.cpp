@@ -9,8 +9,7 @@ double randNum(double min, double max){
     return min + r * (max-min);
 }
 
-int main()
-{
+int main() {
     
     srand(time(NULL));
     double power;
@@ -29,7 +28,6 @@ int main()
         
         if(d < 1) inPoints++;
     }
-        
     double pi = 4 * (inPoints/nPoints);
     cout << fixed << setprecision(power) << pi << endl;
 
